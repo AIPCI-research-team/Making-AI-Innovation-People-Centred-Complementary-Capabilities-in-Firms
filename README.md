@@ -1,0 +1,5 @@
+
+
+This repository contains the complete workflow for data processing, capability measurement, statistical modeling, and result visualization employed in the study of people-centred AI innovation and complementary organizational capabilities in firms. The analysis integrates multiple large-scale datasets—Revelio workforce profiles, Lightcast job postings, KPSS patent data, and Compustat financial metrics—covering 2,704 publicly traded U.S. firms over the period 2013–2023.
+
+All scripts are designed to fully reproduce the empirical results, regression analyses, and visualizations presented in the manuscript. This includes the construction of latent talent-embedded capability stocks for AI capability (AIC) and people-centred innovation capability (PCIC), as well as the empirical testing of their complementary effects on firm-level patent-based innovation outcomes (overall and AI-related patent quantity and impact).
